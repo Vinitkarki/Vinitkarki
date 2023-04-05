@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 Aspiring software Developer.<br>Currently working on Java, Data Structure and Algorithms, Springboot<br>I'm Currently learning ReactJs, NodeJs<br>Fun fact- Rated 2400 on chess.com puzzle solving
